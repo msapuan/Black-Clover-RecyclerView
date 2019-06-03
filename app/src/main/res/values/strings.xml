@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Black Clover RecyclerView</string>
+    <string name="nama_karakter">Nama Karakter</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
